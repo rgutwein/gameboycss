@@ -4,9 +4,8 @@ A Visual/Interactive Nintendo GameBoy using HTML, CSS, Javascript & WebComponent
 
 ![GameBoy CSS](gameboy-css.png)
 
-Created by **[@Manz](https://twitter.com/Manz)**
+Created by **[@Goot]([https://www.linkedin.com/in/rgutwein/]**
 
-Others demos: https://manzdev.github.io/
 
 #### Tools & libraries
 
